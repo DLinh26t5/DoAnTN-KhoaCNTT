@@ -1,0 +1,58 @@
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\ĐOAN QLBD.exe.config
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\ĐOAN QLBD.exe
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\ĐOAN QLBD.pdb
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\BUS.dll
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\DTO.dll
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\BUS.pdb
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\DTO.pdb
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormDangNhap.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.MDI.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.Properties.Resources.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\GUI.csproj.Up2Date
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN QLBD.exe
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN QLBD.pdb
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\DTO.dll.config
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormDiem.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormHinhThuc.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormLanThi.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormLopHoc.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormMonHoc.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormHocKy.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormKhoaHoc.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormNganhHoc.resources
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\DAL.dll
+D:\ĐỒ ÁN TN\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\DAL.pdb
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\ĐOAN QLBD.exe.config
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\ĐOAN QLBD.exe
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\ĐOAN QLBD.pdb
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\BUS.dll
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\DTO.dll
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\DAL.dll
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\BUS.pdb
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\DTO.pdb
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\DTO.dll.config
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\bin\Debug\DAL.pdb
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormDangNhap.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormDiem.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormHinhThuc.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormLanThi.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormLopHoc.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormMonHoc.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormHocKy.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormKhoaHoc.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormNganhHoc.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.MDI.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.Properties.Resources.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\GUI.csproj.Up2Date
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN QLBD.exe
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN QLBD.pdb
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormDangKy.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormQuenMatKhau.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormĐoiMatKhau.resources
+E:\DoAnTN-KhoaCNTT-main\ĐOAN QLBD\ĐOAN QLBD\obj\Debug\ĐOAN_QLBD.FormQuanLyNguoiDung.resources
