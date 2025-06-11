@@ -1,23 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+label4.Text = Global.TenDangNhap + Environment.NewLine +
+                  " --" + Global.Quyen + "--";
 
-namespace BUS
-{
-    public class TaiKhoan
+    if (Global.Quyen == "Admin")
     {
-
-        public string TenDangNhap { get; set; }
-        public string MatKhau { get; set; }
-        public string Quyen { get; set; }
-
-        public TaiKhoan(string tenDN, string matKhau, string quyen)
-        {
-            TenDangNhap = tenDN;
-            MatKhau = matKhau;
-            Quyen = quyen;
-        }
+        label4.ForeColor = Color.DarkBlue;
+        menuStrip1.Enabled = true;
+        btnQuanLyNguoiDung.Visible = true; // Admin thấy
     }
-}
+    else if (Global.Quyen == "Giáo viên")
+    {
+        label4.ForeColor = Color.Green;
+        menuStrip1.Enabled = true;
+        btnQuanLyNguoiDung.Visible = false; // Giáo viên không thấy nút quản lý người dùng
+    }
+    else
+    {
+        label4.ForeColor = Color.Black;
+        menuStrip1.Enabled = true;
+        btnQuanLyNguoiDung.Visible = false; // Mặc định cũng không cho
+    }
