@@ -1,0 +1,7 @@
+D:\XDPMQL\QLBD\DTO\bin\Debug\DTO.dll.config
+D:\XDPMQL\QLBD\DTO\bin\Debug\DTO.dll
+D:\XDPMQL\QLBD\DTO\bin\Debug\DTO.pdb
+D:\XDPMQL\QLBD\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\XDPMQL\QLBD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\XDPMQL\QLBD\DTO\obj\Debug\DTO.dll
+D:\XDPMQL\QLBD\DTO\obj\Debug\DTO.pdb

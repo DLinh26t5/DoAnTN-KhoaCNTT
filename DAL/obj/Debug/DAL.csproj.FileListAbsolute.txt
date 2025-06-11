@@ -1,0 +1,10 @@
+D:\XDPMQL\QLBD\DAL\bin\Debug\DAL.dll
+D:\XDPMQL\QLBD\DAL\bin\Debug\DAL.pdb
+D:\XDPMQL\QLBD\DAL\bin\Debug\DTO.dll
+D:\XDPMQL\QLBD\DAL\bin\Debug\DTO.pdb
+D:\XDPMQL\QLBD\DAL\bin\Debug\DTO.dll.config
+D:\XDPMQL\QLBD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\XDPMQL\QLBD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\XDPMQL\QLBD\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\XDPMQL\QLBD\DAL\obj\Debug\DAL.dll
+D:\XDPMQL\QLBD\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,12 @@
+D:\XDPMQL\QLBD\BUS\bin\Debug\BUS.dll
+D:\XDPMQL\QLBD\BUS\bin\Debug\BUS.pdb
+D:\XDPMQL\QLBD\BUS\bin\Debug\DAL.dll
+D:\XDPMQL\QLBD\BUS\bin\Debug\DTO.dll
+D:\XDPMQL\QLBD\BUS\bin\Debug\DAL.pdb
+D:\XDPMQL\QLBD\BUS\bin\Debug\DTO.pdb
+D:\XDPMQL\QLBD\BUS\bin\Debug\DTO.dll.config
+D:\XDPMQL\QLBD\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\XDPMQL\QLBD\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\XDPMQL\QLBD\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\XDPMQL\QLBD\BUS\obj\Debug\BUS.dll
+D:\XDPMQL\QLBD\BUS\obj\Debug\BUS.pdb
