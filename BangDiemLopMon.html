@@ -1,0 +1,51 @@
+﻿<html lang="vi">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Bảng điểm lớp môn</title>
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 5px;
+        }
+
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div style="text-align:center;">
+        <h2>Trường Cao Đẳng Nghề Bách Khoa Hà Nội</h2>
+        <h4>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br/> <b>Độc lập - Tự do - Hạnh phúc</b></h4>
+    </div>
+    <h2>BẢNG ĐIỂM LỚP MÔN</h2>
+    <table>
+        <tr><td><b>Lớp:</b> {Lop}</td><td><b>Mã MH:</b> {MaMH}</td></tr>
+        <tr><td><b>Môn Học:</b> {MonHoc}</td><td><b>Hình Thức:</b> {HinhThuc}</td></tr>
+    </table>
+    <table>
+        <thead>
+            <tr>
+                <th>STT</th>
+                <th>Mã SV</th>
+                <th>Họ tên</th>
+                <th>Ngày sinh</th>
+                <th>Điểm</th>
+                <th>Ghi chú</th>
+            </tr>
+        </thead>
+        <tbody>{BangDiem}</tbody>
+    </table>
+</body>
+</html>

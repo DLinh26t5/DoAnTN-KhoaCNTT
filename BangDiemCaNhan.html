@@ -1,0 +1,66 @@
+﻿<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <style>
+        body {
+            font-family: 'Times New Roman';
+            font-size: 13px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        #bang-diem td,
+        #bang-diem th {
+            border: 1px solid #ccc;
+        }
+
+        .TT, .SoTC, .Diem {
+            text-align: center;
+            width: 60px;
+        }
+        .TenMon {
+            width: 250px;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BẢNG ĐIỂM SINH VIÊN</h1>
+        <table>
+            <tr>
+                <td>Mã số sinh viên:</td>
+                <td>{Ma}</td>
+            </tr>
+            <tr>
+                <td>Họ tên:</td>
+                <td>{Ten}</td>
+            </tr>
+            <tr>
+                <td>Ngày sinh:</td>
+                <td>{NgaySinh}</td>
+            </tr>
+        </table>
+    </header>
+    <table id="bang-diem">
+        <thead>
+            <tr>
+                <th class="TT">TT</th>
+                <th class="TenMon">Tên môn học</th>
+                <th class="SoTC">Số tín chỉ</th>
+                <th class="Diem">Điểm</th>
+                <th class="GhiChu" />
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{BangDiem}</td>
+            </tr>
+        </tbody>
+    </table>
+    <footer>
+
+    </footer>
+</body>
+</html>
